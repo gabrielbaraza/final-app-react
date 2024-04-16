@@ -5,7 +5,7 @@ function NavbarApp() {
   return (
     <Navbar fluid rounded className="bg-blue-200 dark:bg-blue-800">
       <Navbar.Brand href="https://flowbite-react.com">
-        <img src=" ../images/Gabriel Baraza-logos_white.png" className="mr-3 h-6 sm:h-9" alt="Sample React Logo" />
+        <img src=" images/Gabriel Baraza-logos_white.png" className="mr-3 h-6 sm:h-9" alt="Sample React Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white"></span>
       </Navbar.Brand>
       <div className="flex md:order-2">

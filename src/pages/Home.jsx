@@ -18,7 +18,7 @@ const Home = () => {
           </div>
           <div className="md:w-1/2">
             <img
-              src="../images/pexels-pixabay-247791.jpg"
+              src="images/pexels-pixabay-247791.jpg"
               alt="Gabriel Baraza"
               className="rounded-lg shadow-xl w-full h-auto"
             />
@@ -35,7 +35,7 @@ const Home = () => {
           <a href="https://gabrielbaraza.github.io/portfolio/project-hero/index-1.html" target="_blank" rel="noopener noreferrer">
             <Card
               imgAlt="Project 1"
-              imgSrc="../images/project-hero.png"
+              imgSrc="images/project-hero.png"
               className="max-w-sm mx-auto"
             >
               <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -49,7 +49,7 @@ const Home = () => {
           <a href="https://gabrielbaraza.github.io/portfolio/fashion/index.html" target="_blank" rel="noopener noreferrer">
             <Card
               imgAlt="Project 2"
-              imgSrc="../images/project-fashion.jpg"
+              imgSrc="images/project-fashion.jpg"
               className="max-w-sm mx-auto"
             >
               <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -63,7 +63,7 @@ const Home = () => {
           <a href="https://gabrielbaraza.github.io/portfolio/smoothies/index.html" target="_blank" rel="noopener noreferrer">
             <Card
               imgAlt="Project 3"
-              imgSrc="../images/project-smoothie.jpg"
+              imgSrc="images/project-smoothie.jpg"
               className="max-w-sm mx-auto"
             >
               <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
