@@ -13,7 +13,7 @@ const Portfolio = () => {
         <div className="grid md:grid-cols-2 gap-4">
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/project-fashion.jpg"
+              src="images/project-fashion.jpg"
               alt="Fashion web page project"
               className="rounded-md"
             />
@@ -24,7 +24,7 @@ const Portfolio = () => {
 
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/project-smoothie.jpg"
+              src="images/project-smoothie.jpg"
               alt="Smoothie web page project"
               className="rounded-md"
             />
@@ -35,7 +35,7 @@ const Portfolio = () => {
 
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/project-crypto-wallet.jpg"
+              src="images/project-crypto-wallet.jpg"
               alt="Crypto wallet web page project"
               className="rounded-md"
             />
@@ -46,7 +46,7 @@ const Portfolio = () => {
 
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/project-hero.png"
+              src="images/project-hero.png"
               alt="Hero blocks web page project"
               className="rounded-md"
             />
@@ -57,7 +57,7 @@ const Portfolio = () => {
 
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/project-multi-col.png"
+              src="images/project-multi-col.png"
               alt="Multi-column web page project"
               className="rounded-md"
             />
@@ -68,7 +68,7 @@ const Portfolio = () => {
 
           <div className="bg-white rounded-lg shadow-lg p-4">
             <img
-              src="../public/images/store.png"
+              src="images/store.png"
               alt="Amazon affiliate web page project"
               className="rounded-md"
             />
